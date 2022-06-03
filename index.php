@@ -14,7 +14,7 @@
         </div>
         <div class="right">
             
-            <form action="" method="POST">
+            <form action="" method="POST" data-netlify="true">
                 <input type="text" name="first" placeholder="ENTER NUMBER" required><br>
                 <input type="text" name="second" placeholder="ENTER NUMBER" required><br>
                 <select name="operator" id="">
